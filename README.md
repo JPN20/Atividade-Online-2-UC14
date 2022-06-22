@@ -5,6 +5,8 @@
     ExoAPI - Gerenciamento de projetos
 </h3>
 
+![image](https://user-images.githubusercontent.com/75049978/175164933-9a2c89d8-a69a-47ca-8cd4-8a190c19e10d.png)
+
 <h2 align="center">
 A ExoAPI fornece endpoints para o cadastro de projetos e o cadastro de usuários. Cada um de seus métodos está listado a seguir.
 </h2>
